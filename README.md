@@ -1,6 +1,6 @@
 # Vagrant multi macchina - Esercizio 4
 
-**Michea Colautti - SAMT I4AA -**
+**Michea Colautti - SAMT I4AA**
 
 #### Modulo 340
 
